@@ -1,6 +1,6 @@
 # ExampleAjaxForms
 
-This is some a lab from school.
+This is a lab from school.
 
 Demonstrates the use of
 ```
