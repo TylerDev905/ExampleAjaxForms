@@ -7,7 +7,6 @@
 	}
 ?>
 <!doctype html>
-<!-- I William Taylor-Holubeshen, 000305063 certify that this material is my original work. No other person's work has been used without due acknowledgement. I have not made my work available to anyone else. -->
 <!-- 
 	Logo background source http://www.psdgraphics.com/file/colorful-triangles-background.jpg 
 	Regex[Phone#] source http://regexlib.com/DisplayPatterns.aspx?cattabindex=6&categoryId=7
