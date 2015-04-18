@@ -8,10 +8,9 @@ Demonstrates the use of
 ```
 1. Modernizr
 2. JQuery
-3. JQuery Validator
-4. JQuery Plugin example
-5. JQuery Proxy example
-6. JQuery Ajax
+3. JQuery Plugin example
+4. JQuery Proxy example
+5. JQuery Ajax
 ```
 <a href="http://imgur.com/bS7HcJs"><img src="http://i.imgur.com/bS7HcJs.png" title="source: imgur.com" /></a>
 
