@@ -11,6 +11,7 @@ Demonstrates the use of
 3. JQuery Validator
 4. JQuery Plugin example
 5. JQuery Proxy example
+6. JQuery Ajax
 ```
 <a href="http://imgur.com/bS7HcJs"><img src="http://i.imgur.com/bS7HcJs.png" title="source: imgur.com" /></a>
 
