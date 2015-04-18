@@ -178,7 +178,7 @@
 	
 	 <div class="jumbotron">
       <div class="container">
-        <h1><span class="glyphicon glyphicon-flash" aria-hidden="true"></span> William Taylor-Holubeshen</h1>
+        <h1><span class="glyphicon glyphicon-flash" aria-hidden="true"></span> Tyler H</h1>
         <p>This lab demonstrates the use of Twitter Bootstrap and using local storage to store form variables.</p>
       </div>
     </div>
@@ -307,7 +307,7 @@
 	 
 
       <footer>
-        <p class="center"><strong>Comp10043: Lab5: Forms and Local Storage - William Taylor-Holubeshen</strong></p>
+        <p class="center"><strong>Lab5: Forms and Local Storage - Tyler H</strong></p>
       </footer>
 	  
 	  
